@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+  nav {
+    background-color: #000000e4;
+  }
+  #inner-drop:hover .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    left: 0;
+  }
+  
+}
